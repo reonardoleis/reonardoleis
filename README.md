@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Leonardo Reis</h1>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=reonardoleis&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="reonardoleis" /></p>
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reonardoleis" alt="reonardoleis" /></a></p>
-<p>-  I&rsquo;m currently learning **functional programming languages**</p>
+<p>-  <strong>I&rsquo;m currently learning functional programming languages</strong></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left"><a href="https://linkedin.com/in/lrsilva1" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lrsilva1" width="40" height="30" align="center" /></a></p>
 <h3 align="left">Languages and Tools:</h3>
