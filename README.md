@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Leonardo</h1>
+<p>I am a mid-level back end software engineer currently working at <a href="https://jarbas.ai">Jarbas.ai</a>, an AI-powered creative assistant.</p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=reonardoleis&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="reonardoleis" /></p>
 <p align="left"></p>
 <h3 align="left">Connect with me:</h3>
