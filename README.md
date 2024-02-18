@@ -7,6 +7,6 @@
 <p align="left"><a href="https://linkedin.com/in/lrsilva1" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lrsilva1" width="40" height="30" align="center" /></a></p>
 <hr>
 <br>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=reonardoleis&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="reonardoleis" align="left" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=reonardoleis&amp;show_icons=true&amp;locale=en&amp;layout=compact&r=123" alt="reonardoleis" align="left" /></p>
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=reonardoleis&amp;show_icons=true&amp;locale=en" alt="reonardoleis" align="center" /></p>
