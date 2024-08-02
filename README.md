@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Leonardo</h1>
-<p>I am a software engineer currently working at <a href="https://jarbas.ai">Jarbas.ai</a>, an AI-powered creative assistant.</p>
+<p>I am a software engineer currently working at <a href="https://www.hotelengine.com/">Hotel Engine</a>, a hotel search and booking solution.</p>
 <p>I have substantial expertise in software engineering, specializing in highly scalable software development (with expertise on web APIs & services) with great experience with message queues, blockchain, relational/non-relational databases, Google Cloud Platform, concurrent programming, system design, distributed systems among other technologies and concepts.</p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=reonardoleis&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="reonardoleis" /></p>
 <p align="left"></p>
